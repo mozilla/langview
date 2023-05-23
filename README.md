@@ -33,6 +33,10 @@ Currently, the only implemnentation is for the web, with a minimal set of compon
 - Map
 - Select
 
+## Caveats
+
+This is an experimental, demo-stage project to explore how generative UI might be standardized. You'll likely find the model requires experimentation with prompting & component descriptions to get desired results. Please file an issue or pull request if you'd like to work on making this more robust, or exploring a production use case.
+
 ## Demo
 
 To run the demo, add a `.env` file in `/demo` with your Google Maps API key:
