@@ -1,0 +1,4 @@
+name: HStack
+description: A layout component for stacking other components horizontally.
+properties:
+  children: an array of other components

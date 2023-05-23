@@ -1,0 +1,8 @@
+{
+  "name": "@lang-view/core",
+  "version": "1.0.0",
+  "description": "LangView is an open-source GUI layer for large language models, that uses a set of conventions allowing models to respond in YAML which can then be interpreted as live GUI components.",
+  "main": "lang-view.js",
+  "author": "Rupert Parry <rp@rupert.cloud>",
+  "license": "MIT"
+}

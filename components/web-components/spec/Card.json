@@ -1,0 +1,1 @@
+{"name":"Card","description":"A card block for displaying individual items with a title and description. If using multiple, put them in a VStack.","properties":{"title":"a string with the title of the content","content":"a string with the description of the content"}}

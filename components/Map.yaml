@@ -1,0 +1,5 @@
+name: Map
+description: A map view for displaying anything to do with locations, landmarks, countries, cities, places. It can display one location at a time. If your response pertains to a location, display it using this component.
+properties:
+  query: a string with a place name or long/lat coordinates to display a single location on the map
+  bind: (optional) a string ID that binds the query to the output of another component with the same 'bind' value

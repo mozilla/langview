@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="EN">
+  <head>
+    <meta charset="utf-8" />
+    <title>LangView Web Demo</title>
+    <link rel="stylesheet" type="text/css" href="./src/style.css" />
+    <script type="module" src="./src/query.js"></script>
+    <script type="module" src="./src/index.js" defer></script>
+  </head>
+  <body>
+    <div class="apikey-dialog">
+      <div class="apikey-dialog-container">
+        <h1>Authorize with OpenAI</h1>
+        <div class="apikey-dialog-cols">
+          <input id="apikey" type="text" placeholder="Your OpenAI API key...">
+          <button id="apikey-submit">OK</button>
+        </div>
+      </div>
+    </div>
+    <div class="app">
+      <div class="container">
+        <section class="query-section">
+          <demo-query></demo-query>
+        </section>
+        <section class="view-section">
+          <lang-view></lang-view>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>

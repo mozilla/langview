@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@lang-view/core": "file:../core",
+    "@lang-view/web-components": "file:../components/web-components"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}

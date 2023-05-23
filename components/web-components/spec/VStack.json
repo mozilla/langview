@@ -1,0 +1,1 @@
+{"name":"VStack","description":"A layout component for stacking other components vertically.","properties":{"children":"an array of other components"}}

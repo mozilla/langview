@@ -1,0 +1,14 @@
+{
+  "name": "@lang-view/web-components",
+  "version": "1.0.0",
+  "description": "Simple web component implementations for @lang-view/core.",
+  "main": "src/index.js",
+  "author": "Rupert Parry <rp@rupert.cloud>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/convert-spec.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
