@@ -39,6 +39,8 @@ This is an experimental, demo-stage project to explore how generative UI might b
 
 ## Demo
 
+View the demo video on [Twitter](https://twitter.com/rupert_parry/status/1653780093712633859).
+
 To run the demo, add a `.env` file in `/demo` with your Google Maps API key:
 
 ```
