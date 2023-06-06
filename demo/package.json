@@ -8,6 +8,6 @@
     "@lang-view/web-components": "file:../components/web-components"
   },
   "devDependencies": {
-    "vite": "^4.2.1"
+    "vite": "^4.2.3"
   }
 }
