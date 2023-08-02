@@ -26,7 +26,7 @@ properties:
   my-property: ... # Natural langauge description of each property you'd like the model to be able to set for this component (type & behaviour)
 ```
 
-Currently, the only implemnentation is for the web, with a minimal set of components:
+Currently, the only implementation is for the web, with a minimal set of components:
 
 - HStack / VStack
 - Card
